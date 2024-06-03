@@ -11,4 +11,5 @@
     <project name="angelomds42/android_kernel_xiaomi_sm6225" path="kernel/xiaomi/sm6225" revision="delusion" remote="github" />
     <project name="angelomds42/hardware_xiaomi" path="hardware/xiaomi" revision="main" remote="github" />
     <project name="ItzDFPlayer/vendor_davinci-miuicamera" path="vendor/xiaomi/miuicamera" remote="gitlab" revision="leica-5.0-universal" />
+    <project name="angelomds42/vendor_aosp-priv_keys" path="vendor/private-keys" revision="main" remote="github" />
 </manifest>.
