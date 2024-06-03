@@ -2,7 +2,7 @@
 <manifest>
     
     <!-- Remove HAL's -->
-    <remove-project name="TheParasiteProject/android_hardware_xiaomi" />
+    <remove-project name="TheParasiteProject/hardware_xiaomi" />
     
     <!--HAL's & Tree's-->
     
