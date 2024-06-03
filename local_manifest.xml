@@ -12,4 +12,4 @@
     <project name="angelomds42/hardware_xiaomi" path="hardware/xiaomi" revision="main" remote="github" />
     <project name="ItzDFPlayer/vendor_davinci-miuicamera" path="vendor/xiaomi/miuicamera" remote="gitlab" revision="leica-5.0-universal" />
     <project name="angelomds42/vendor_aosp-priv_keys" path="vendor/private-keys" revision="main" remote="github" />
-</manifest>.
+</manifest>
